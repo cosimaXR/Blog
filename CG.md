@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+###① How does this world become visual to us? 
+- Color
+- Form
+- Depth
+- Motion
+Then explain how computer utilize those rules to generate vivid pictures/animation for us.
 
-You can use the [editor on GitHub](https://github.com/cosimaXR/Blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###② How computer display?
+- Color
+- Form
+- Depth
+- Motion
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###③ Special display requirement in VR/AR.
+Then I’ll move to invisible part of it.
 
-### Markdown
+###④ What is the calculation process behind those displays? From 0 to 1.
+- Color - Render
+- Form - Model
+- Depth 
+- Motion - Animation
+As I said before, CG is an subject about teaching computer to draw, and I can tell you that it is pretty similar to how we draw on a physical canvas. We first see the world with our eyes. Then we render what we saw onto a surface. In a similar way, computer see the digital world with its eyes, and render the pictures onto a digital screen.So the next thing I would to decompose the process of drawing as a human being and How do computer learn from it to draw an image for us to see? 
+How can computer utilize those rules to draw? Then we shall start to learn how can computer hack down to our vision mechanism and draw the pictures that we feel it is real.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cosimaXR/Blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###⑤ Photorealistic. Special computational requirement in VR/AR
+When everybody is talking photorealistic in VR
+It actually vary so much 
+Sensed so subjectively by our minds
