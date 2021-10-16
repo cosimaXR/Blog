@@ -1,6 +1,9 @@
 [Mind Map](https://cosimaxr.github.io/Blog/CG) 
+
 [Study Notes](https://cosimaxr.github.io/Blog/CG) 
+
 [Study Resources](https://cosimaxr.github.io/Blog/CG) 
+
 [Project](https://cosimaxr.github.io/Blog/CG) 
 
 ### ① How does this world become visual to us? 
