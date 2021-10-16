@@ -1,4 +1,5 @@
 [Mind Map](https://cosimaxr.github.io/Blog/CG) 
+![image](CG_MindMap/CG_Overview.png)
 
 [Study Notes](https://cosimaxr.github.io/Blog/CG_StudyResources) 
 
