@@ -1,6 +1,6 @@
 [Mind Map](https://cosimaxr.github.io/Blog/CG) 
-<img src="CG_MindMap/CG_Overview.png" width="200" height="200" />
-![image](CG_MindMap/CG_Overview.png)
+[CG Overview](https://github.com/cosimaXR/Blog/blob/gh-pages/CG_MindMap/CG_Overview.png) 
+![CG Overview](CG_MindMap/CG_Overview.png)
 
 [Study Notes](https://cosimaxr.github.io/Blog/CG_StudyResources) 
 
