@@ -1,8 +1,8 @@
 [Mind Map](https://cosimaxr.github.io/Blog/CG) 
 
-[Study Notes](https://cosimaxr.github.io/Blog/CG) 
+[Study Notes](https://cosimaxr.github.io/Blog/CG_StudyResources) 
 
-[Study Resources](https://cosimaxr.github.io/Blog/CG) 
+[Study Resources](https://cosimaxr.github.io/Blog/CG_StudyResources) 
 
 [Project](https://cosimaxr.github.io/Blog/CG) 
 
