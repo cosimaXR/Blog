@@ -1,7 +1,8 @@
 
 # Cosima XR's Technical Blog
 
-## 📕 Study Notes
+| ## 📕 Study Notes | ## 💬 [Blog]() | ## 🛠 [Project]() |
+
 ### CG 
 1. [Mind Map](https://cosimaxr.github.io/Blog/CG) 
 2. [Study Notes](https://cosimaxr.github.io/Blog/CG)
@@ -32,7 +33,7 @@
 3. [Study Resources](https://cosimaxr.github.io/Blog/CG_StudyResources) 
 4. [Project](https://cosimaxr.github.io/Blog/CG) 
 
-## 💬 [Blog]()
 
-## 🛠 [Project]()
+
+
 
