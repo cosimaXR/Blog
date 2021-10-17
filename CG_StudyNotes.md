@@ -1,5 +1,7 @@
 # CG Study Notes
 
+| [Mind Map](https://cosimaxr.github.io/Blog/CG_MindMap)  | [Study Notes](https://cosimaxr.github.io/Blog/CG_StudyNotes) | [Study Resources](https://cosimaxr.github.io/Blog/CG_StudyResources) |[Project](https://cosimaxr.github.io/Blog/CG) |
+
 ### ① How does this world become visual to us? 
 - Color
 - Form
