@@ -1,7 +1,7 @@
 
 # Cosima XR's Technical Blog
 
-## Study Notes
+## ⎕ Study Notes
 ### [CG](https://cosimaxr.github.io/Blog/CG) 
 1. [Mind Map](https://cosimaxr.github.io/Blog/CG) 
 2. [Study Notes](https://cosimaxr.github.io/Blog/CG)
@@ -14,6 +14,6 @@
 ### [How to]()
 
 
-## Project
+## 🛠 Project
 1. [VR Modeling](https://cosimaxr.github.io/Blog/CG)
 2. [Eye controlled Robot](https://cosimaxr.github.io/Blog/CG) 
