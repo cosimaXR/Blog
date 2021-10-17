@@ -7,42 +7,45 @@
 
 # Unity Tutorial
 1. [Catlike Coding](https://catlikecoding.com/unity/tutorials/)
+2. [Procedural Generation](https://www.youtube.com/channel/UCifiUB82IZ6kCkjNXN8dwsQ)
 
 
 # Human & Physics
-## Vision
+### Vision
 1. [Vision illusion](http://www.ritsumei.ac.jp/~akitaoka/index-e.html) 
 
-## Color
+### Color
 1. [The Physics and Psychology of Colour - with Andrew Hanson](https://www.youtube.com/watch?v=af78RPi6ayE&list=RDLVaf78RPi6ayE&start_radio=1&rv=af78RPi6ayE&t=206) 
 
-## Light
+### Light
 1. [Theather Light School](https://www.lightingschool.eu/knowledge-center/) 
 
 
 # Computer - Software
 
-## Model
+### Model
 
-## Render
+### Render
 1. [Render engine speed comparison](https://www.youtube.com/watch?v=myg-VbapLno)
 
-### PBR
+#### PBR
 1. [SIGGRAPH University - Introduction to "Physically Based Shading in Theory and Practice"](https://www.youtube.com/watch?v=j-A0mwsJRmk&t=1880s)
 
-## Shader
+### Shader
 
-### Water
+#### Water
 1. [Rendering Realtime Caustics in WebGL
 ](https://medium.com/@evanwallace/rendering-realtime-caustics-in-webgl-2a99a29a0b2c)
 
-## Animation
+### Animation
 
 
 # Computer - Hardware
-## GPU
-## CPU
-## Display
+### GPU
+### CPU
+1. [Crash Course Computer Science]()
+
+### Display
 1. [全网最简洁易懂的OLED与LCD屏幕工作原理与优劣科普](https://www.bilibili.com/video/BV1Wz411B7Tf/?spm_id_from=333.788.videocard.0) 
 2. [屏幕像素排列讲解：什么是周冬雨排列，钻石排列，delta排列，rgb排列，又有怎样的区别呢](https://www.bilibili.com/video/BV1dA411t7f3/?spm_id_from=333.788.videocard.4) 
 
