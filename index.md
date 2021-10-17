@@ -1,4 +1,3 @@
-
 # Cosima XR's Technical Blog
 
 | 📕 [Study Notes](https://cosimaxr.github.io/Blog) | 💬 [Blog]() | 🛠 [Project]() |
