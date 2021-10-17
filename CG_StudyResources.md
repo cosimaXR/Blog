@@ -1,6 +1,7 @@
 # CG Study Resources
 
-## [<< Back](https://cosimaxr.github.io/Blog/CG)
+## [<< Back](https://cosimaxr.github.io/Blog)
+| [Mind Map](https://cosimaxr.github.io/Blog/CG_MindMap)  | [Study Notes](https://cosimaxr.github.io/Blog/CG_StudyNotes) | [Study Resources](https://cosimaxr.github.io/Blog/CG_StudyResources) |[Project](https://cosimaxr.github.io/Blog/CG) |
 
 ## ⌲ Overview
 1. [Udacity Interactive 3D Graphics](https://classroom.udacity.com/courses/cs291) 
