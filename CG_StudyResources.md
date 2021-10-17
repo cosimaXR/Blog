@@ -1,5 +1,5 @@
 # CG Study Resources
-
+## [<<](https://cosimaxr.github.io/Blog/CG)
 ## ⌲Overview
 1. [Udacity Interactive 3D Graphics](https://classroom.udacity.com/courses/cs291) 
 2. [Scratch Pixel](https://www.scratchapixel.com/index.php?redirect) 
