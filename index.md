@@ -1,7 +1,7 @@
 
 # Cosima XR's Technical Blog
 
-| ## 📕 Study Notes | ## 💬 [Blog]() | ## 🛠 [Project]() |
+| 📕 Study Notes | 💬 [Blog]() | 🛠 [Project]() |
 
 ### CG 
 1. [Mind Map](https://cosimaxr.github.io/Blog/CG) 
