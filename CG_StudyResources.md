@@ -1,18 +1,20 @@
 # CG Study Resources
+
 ## [<<](https://cosimaxr.github.io/Blog/CG)
-## ⌲Overview
+
+## ⌲ Overview
 1. [Udacity Interactive 3D Graphics](https://classroom.udacity.com/courses/cs291) 
 2. [Scratch Pixel](https://www.scratchapixel.com/index.php?redirect) 
 3. [SIGGRAPH University - CG Fundamentals](https://www.youtube.com/watch?v=7Hn5qUmL-Q8) 
 4. [SIGGRAPH University : "Introduction to 3D Computer Graphics"](https://www.youtube.com/watch?v=zxQjlIViRBE)
 
 
-## ⌲Unity Tutorial
+## ⌲ Unity Tutorial
 1. [Catlike Coding](https://catlikecoding.com/unity/tutorials/)
 2. [Procedural Generation](https://www.youtube.com/channel/UCifiUB82IZ6kCkjNXN8dwsQ)
 
 
-## ⌲Human & Physics
+## ⌲ Human & Physics
 ### Vision
 1. [Vision illusion](http://www.ritsumei.ac.jp/~akitaoka/index-e.html) 
 
@@ -23,7 +25,7 @@
 1. [Theather Light School](https://www.lightingschool.eu/knowledge-center/) 
 
 
-## ⌲Computer - Software
+## ⌲ Computer - Software
 
 ### Model
 
@@ -42,7 +44,7 @@
 ### Animation
 
 
-## ⌲Computer - Hardware
+## ⌲ Computer - Hardware
 ### GPU
 ### CPU
 1. [Crash Course Computer Science]()
@@ -52,6 +54,10 @@
 2. [屏幕像素排列讲解：什么是周冬雨排列，钻石排列，delta排列，rgb排列，又有怎样的区别呢](https://www.bilibili.com/video/BV1dA411t7f3/?spm_id_from=333.788.videocard.4) 
 
 
-## ⌲Math
+## ⌲ Math
 1. [3B1B](https://www.3blue1brown.com/) 
 2. [Coding Math](https://www.youtube.com/channel/UCF6F8LdCSWlRwQm_hfA2bcQ)
+
+
+## [<<](https://cosimaxr.github.io/Blog/CG)
+
