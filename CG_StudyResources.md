@@ -45,7 +45,7 @@
 
 ### Animation
 1. [DOTween](http://dotween.demigiant.com/documentation.php)
-
+2. [Easing functions specify the rate of change of a parameter over time.](https://easings.net/)
 
 ## ⌲ Computer - Hardware
 ### GPU
